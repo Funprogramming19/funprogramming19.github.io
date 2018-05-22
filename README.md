@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bine ați venit la site-ul Funprogramming!
 
 You can use the [editor on GitHub](https://github.com/Funprogramming19/funprogramming19.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
